@@ -15,7 +15,7 @@ body
 {
 	width : 960px;
 	margin: 0 auto; 
-	background-color: white;
+	background-color: #7887AB;
 }
 
 header
@@ -23,14 +23,14 @@ header
 	height: 100px;
 	width: 910px;
 	padding: 25px;
-	background-color: orange;
+	background-color: #162955;
 	margin-bottom: 10px;
 }
 
 nav
 {
 	width: 940px;
-	background-color: yellow;
+	background-color: #4F628E;
 	padding: 10px;
 	margin-bottom: 10px;
 }
@@ -47,7 +47,7 @@ aside
 	height: 400px;
 	margin: 0 10px 10px 0;
 	padding: 10px;
-	background-color: green; 
+	background-color: #162955; 
 	float: left;
 }
 
@@ -57,13 +57,13 @@ section
 	height: 400px;
 	margin: 0 0 10px 0;
 	padding: 10px;
-	background-color: purple;
+	background-color: #162955;
 	float: right;
 }
 
 footer
 {
-	background-color: blue;
+	background-color: #4F628E;
 	padding: 10px;
 	clear: both;
 }
