@@ -24,16 +24,26 @@ header
 	width: 910px;
 	padding: 25px;
 	background-color: orange;
+	margin-bottom: 10px;
 }
 
 nav
 {
-	background-color: green;
+	width: 940px;
+	background-color: yellow;
+	padding: 10px;
+	margin-bottom: 10px;
 }
 
+nav li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 40px;
+}
 aside
 {
-	background-color: yellow;
+	background-color: green;
 }
 
 section
