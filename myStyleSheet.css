@@ -1,0 +1,47 @@
+*
+{	
+	margin: 0;
+	padding: 0;
+}
+
+
+body
+{
+	background-color : black;
+}
+
+
+#container
+{
+	width : 960px;
+	margin: 0 auto; 
+	background-color: white;
+}
+
+header
+{
+	height: 100px;
+	width: 910px;
+	padding: 25px;
+	background-color: orange;
+}
+
+nav
+{
+	background-color: green;
+}
+
+aside
+{
+	background-color: yellow;
+}
+
+section
+{
+	background-color: purple;
+}
+
+footer
+{
+	background-color: blue;
+}
