@@ -8,6 +8,7 @@
 body
 {
 	background-color : black;
+	color: white;
 }
 
 
@@ -20,11 +21,13 @@ body
 
 header
 {
+	font-family: "Cursive", Brush Script mt;
 	height: 100px;
 	width: 910px;
 	padding: 25px;
 	background-color: #162955;
 	margin-bottom: 10px;
+	font-size: 40px;
 }
 
 nav
