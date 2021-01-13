@@ -19,7 +19,7 @@ while (count > 0)
 	}
 	else
 	{
-		document.write("No more" + word + " of pop on the wall ");
+		document.write("No more " + word + " of pop on the wall ");
 		document.write("<br>");
 	}
 	
