@@ -6,7 +6,7 @@ var guess;
 var hits = 0;
 var guesses = 0;
 
-var isSunk = false;
+var isSunk = false;4
 
 while (isSunk == false) {
 	
