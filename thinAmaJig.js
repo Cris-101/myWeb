@@ -41,7 +41,7 @@ function display(output) {
 }
 
 clunkCounter = 0; 
-var number = 1;
+var number = 0;
 
  while(number <= 7)
  {
